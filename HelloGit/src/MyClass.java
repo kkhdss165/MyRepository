@@ -7,5 +7,6 @@ public class MyClass {
 		System.out.println("Change in master branch"); 
 		MyHello myhello = new MyHello();
 		myhello.sayHello();
+		System.out.println("v2.0"); 
 	}
 }
