@@ -1,7 +1,7 @@
-
 public class MyHello {
-	public static void main(String args[])
+	public void sayHello()
 	{
 		System.out.println("Hello!"); 
+		System.out.println("SayHello in master branch"); 
 	}
 }
